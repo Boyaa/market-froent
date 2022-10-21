@@ -3,7 +3,7 @@ function ChildComponent(props) {
   return (
     <div>
       <p>
-        이름은 {name}이며 {age}살입니다.
+        이름은 {name}이며 {age}살입니다. !!
       </p>
     </div>
   );
